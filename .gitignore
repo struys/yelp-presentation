@@ -1,0 +1,10 @@
+*.iml
+test_venv
+.idea
+*.pyc
+*.egg-info
+*.DS_Store
+bower_components
+node_env
+node_modules
+assets/*.css
