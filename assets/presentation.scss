@@ -14,5 +14,22 @@ ol.stack-table {
 }
 
 .stack-table li:last-child {
-    border-bottom: none;
+  border-bottom: none;
+}
+
+
+.flow-diagram li {
+  display: inline-block;
+
+  text-align: center;
+  margin: 0.4em 0em;
+  vertical-align: middle;
+}
+
+.flow-diagram li > span {
+  background-color: #3b65a7;
+  border-radius: 5px;
+  color: #fff;
+  padding: 1em;
+
 }

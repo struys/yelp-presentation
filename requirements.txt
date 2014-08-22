@@ -1,6 +1,3 @@
 ipdb
-testify
-selenium
-flask
 nodeenv
 pyscss
