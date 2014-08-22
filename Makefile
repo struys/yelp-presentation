@@ -24,6 +24,7 @@ presentation: scss
 clean:
 	rm -rf test_venv
 	rm -rf node_env
+	rm -rf bower_components
 	find . -iname '*.pyc' -delete
 
 %.css: %.scss test_venv
